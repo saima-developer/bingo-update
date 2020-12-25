@@ -1,0 +1,242 @@
+/* responsive code*/
+
+/* extra large device */
+@media only screen and(min-width:12.00px){
+
+} 
+/* Large device */
+@media only screen and (max-width:1199.98px) and (min-width:992px){
+	
+ }  
+/* medium device */
+@media only screen and (max-width:991.98px) and (min-width:768px){
+	.banner-sec .carousel-caption {
+    top: 43%;
+ }
+ 
+   .banner-sec .banner-text h2{
+   font-size: 42px;
+  } 
+
+ h2{
+ 	font-size:22px;
+ }
+ h3{
+ 	font-size:22px;
+ } 
+
+
+.offer-sec img {
+    width: 100%!important;
+    padding: 10px 10% 20px 10%;
+}
+
+.service-item {
+    padding: 0px!important;
+}
+.service-item h2 {
+    padding-top: 0px!important;
+}   
+.service-item p {
+    padding: 0px?!important;
+} 
+
+.shape {
+    
+    margin: 20px 50px 0px 112px!important;
+  
+}
+
+
+/* small device */
+@media only screen and (max-width:767.98px) and (min-width:576px){
+	.banner-sec .banner-text h2{
+   font-size: 30px;
+  } 
+
+  .banner-sec .banner-text p{
+   font-size: 14px;
+  }   
+  .banner-sec .banner-text .btn-color{
+    padding:6px 20px; 
+    font-size: 14px;
+  }  
+ 
+   .banner-sec .carousel-inner .d-md-block{
+    
+   	width: 90%!important;
+   	text-align: center!important;
+   	
+   }  
+
+.banner-sec .carousel-item .d-md-block{
+    
+   	width: 90%!important;
+   	text-align: center!important;
+   	
+   }  
+
+
+.color-p {
+    width:100%!important;
+    padding: 10px;
+}   
+
+.offer-sec img {
+    width: 54%!important;
+    padding: 10px 10% 20px 10%;
+}
+
+ 
+
+.counter-div{
+padding: 10px 0px 40px 0px;
+}
+
+.counters-item h3 {
+	font-size: 22px;
+}
+
+.counters-item span {
+	font-size: 26px!important;
+}
+
+.footer-top h6{
+	text-align: center;
+}
+.footer-top p{
+	text-align: center;
+}
+
+.footer-top ul{
+	text-align: center;
+}
+
+.footer-top .font{
+    padding: 10px 0px 13px 0px;
+}
+
+}  
+/* Extra small device */
+@media only screen and (max-width:575.98px){
+  .banner-sec .d-md-block{
+    
+   	width: 90%!important;
+   	text-align: center!important;
+   
+   }  
+  
+  h2{
+  	font-size: 18px!important;
+  }
+
+  h3{
+  	font-size: 1rem!important;
+  }
+
+  .banner-sec .banner-text h2{
+   font-size: 16px;
+  } 
+
+  .banner-sec .banner-text p{
+   font-size: 12px;
+  }   
+  .banner-sec .banner-text .btn-color{
+   padding:4px 20px; 
+    font-size: 12px;  
+   
+  }  
+  
+  .banner-sec .carousel-control-prev-icon {
+  padding:20px!important;
+ }  
+
+   .banner-sec .carousel-control-next-icon {
+  padding:20px!important;
+ }  
+
+.offer-sec img{
+	display:none;
+
+ }
+ .about-sec img {
+    width: 92%!important;
+}
+.service-item p {
+    
+    font-size: 13px;
+}
+
+.counter-div{
+	padding:10px 0px 20px 0px;
+}
+
+.counter-div:before{
+    background: none!important;
+}
+
+.counters-item span{
+	font-size: 18px!important;
+}
+
+
+.offer-sec .title p {
+    width: 98%;
+    margin: 10px auto;
+}
+
+
+.about-sec .title p {
+    width: 98%;
+    margin: 10px auto;
+}
+
+.creat-sec p {
+    width: 98%;
+    margin: 20px auto;
+}
+
+.title p {
+    width: 98%;
+    margin: 10px auto;
+}
+
+.latest-post .title p {
+    width: 98%;
+    margin: 20px auto;
+}
+.footer-top h6{
+	text-align: center;
+}
+.footer-top p{
+	text-align: center;
+}
+
+.footer-top ul{
+	text-align: center;
+}
+
+.footer-top .font{
+    padding: 10px 0px 13px 0px;
+}
+.shape{
+width: 30%!important;
+
+
+}
+
+}    
+
+/* button will display above 575.98px */
+@media only screen and (min-width:575.98px){
+
+ }
+
+
+
+
+
+
+
+
+
